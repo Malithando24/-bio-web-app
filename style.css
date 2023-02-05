@@ -1,0 +1,17 @@
+body {
+    background: grey;
+    color: white;
+    text-align: center
+}
+.profile{
+  border-radius: 80%;
+  width: 50%
+}
+.btn{
+  display: block;
+  padding: 20px;
+  color: black;
+  margin :16px;
+  background: white;
+  box-shadow: 10px 5px 5px 12px lightblue;
+}
